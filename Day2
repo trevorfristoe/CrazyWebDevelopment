@@ -1,0 +1,15 @@
+<html>
+<head>
+</head>
+
+<body>
+  <h1>Hi there!</h1>
+  <p>What is up?
+  <br>
+  How are you
+  <br>
+  doing today?</p>
+  <hr>
+  <img src = "APPLE.PNG">
+  </body>
+</html>
